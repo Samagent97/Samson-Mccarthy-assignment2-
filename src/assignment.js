@@ -2,7 +2,7 @@
 // DO NOT EDIT THIS BLOCK
 const assignment = {};
 // ========================
-
+   
 
 /**
  * Challenge - 1
